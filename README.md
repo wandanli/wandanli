@@ -2,17 +2,17 @@
 <br/>
 <br/>
 
-```python
-🐍 print("I kick-started my technology journey by self-learning online specialisation courses in Python.")
-```
+<p><code>
+  🐍 <b>print</b>("I kick-started my technology journey by self-learning online specialisation courses in Python.")
+</code></p>
 
-```javascript
-🎓 document.write("Then attended university for further education in computing discipline, and accomplished with an overall A grade.")
-```
+<p><code>
+🎓 <b>document.write</b>("Then attended university for further education in computing discipline, and accomplished with an overall A grade.")
+</code></p>
 
-```javascript
-🥳 const danica = new WebDeveloper("I continue sharpening my skills in React.js", "Open to Work", "Entry Level")
-```
+<p><code>
+🥳 <b>const danica = new WebDeveloper</b>("I continue sharpening my skills in React.js", "Open to Work", "Entry Level")
+</code></p>
 
 <br/>
 <h2 align="center"><img src="./images/hammer.svg"> My Skill Set <img src="./images/tool-box.svg"></h2>
@@ -35,7 +35,7 @@
 <img src="./images/badges/XD.svg">&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Keep learning more</h2>
+<h2 align="center">Keep Learning More</h2>
 <p align="center">
 <img src="./images/bean-eater.svg">
 </p>
@@ -43,9 +43,10 @@
 <br/>
 <br/>
 
-```javascript
-👋 window.confirm("Connect with me.");
-```
+
+<p align="center"><code>
+  👋 <b>window.confirm</b>("Connect with me.")
+</code></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danica-li-072020/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
