@@ -1,4 +1,4 @@
-<img src="./images/bg-top-small.svg" alt="bg"/>
+<img src="./images/bg-top-small.png" alt="bg"/>
 
 <p><code>
   🐍 <b>print</b>("I kick-started my technology journey by self-learning online specialisation courses in Python.")
