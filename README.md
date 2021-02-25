@@ -49,6 +49,6 @@
 <!-- <a href="https://icons8.com/icon/118553/github">icon by Icons8</a> -->
 
 <br>
-<p align="center"><a href="http://danicali.me/" target="blank"><img src="./images/wandanli-animated-text.png" width=60px/></a></p>
+<p align="center"><a href="http://danicali.me/" target="blank"><img src="./images/wandanli-animated-text.png" width=160px/></a></p>
 
 <p align="center"><img src="./images/bg-bottom.svg" width=100%/></p>
