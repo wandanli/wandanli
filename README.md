@@ -12,6 +12,7 @@
 🥳 <b>const danica = new WebDeveloper</b>("I continue sharpening my skills in React.js", "Open to Work", "Entry Level")
 </code></p>
 
+<br>
 <h2 align="center"><img src="./images/hammer.svg"> My Skill Set <img src="./images/tool-box.svg"></h2>
 
 <p align="center">
@@ -36,10 +37,10 @@
 <img src="./images/bean-eater.svg">
 </p>
 
+<br>
 <p align="center"><code>
   👋 <b>window.confirm</b>("Connect with me.")
 </code></p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/danica-li-072020/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/futottakuma/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/></a>
@@ -47,6 +48,7 @@
 </p>
 <!-- <a href="https://icons8.com/icon/118553/github">icon by Icons8</a> -->
 
+<br>
 <p align="center"><a href="http://danicali.me/" target="blank"><img src="./images/wandanli-animated.png" width=60px/></a></p>
 <p align="center"><a href="http://danicali.me/" target="blank"><small align="center">Know More About Me</small></a></p>
 
