@@ -1,4 +1,4 @@
-<img src="./images/bg-top.svg" alt="bg"/>
+<img src="./images/bg-top-small.svg" alt="bg"/>
 <br/>
 <br/>
 
@@ -42,7 +42,6 @@
 
 <br/>
 <br/>
-
 
 <p align="center"><code>
   👋 <b>window.confirm</b>("Connect with me.")
