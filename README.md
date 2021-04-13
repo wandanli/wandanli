@@ -19,6 +19,7 @@
 <img src="./images/badges/Html.svg">&nbsp;&nbsp;
 <img src="./images/badges/Css.svg">&nbsp;&nbsp;
 <img src="./images/badges/Sass.svg">&nbsp;&nbsp;
+<img src="./images/badges/StyledComponents.svg">&nbsp;&nbsp;
 <img src="./images/badges/Bootstrap.svg">&nbsp;&nbsp;
 <img src="./images/badges/Materialize.svg">&nbsp;&nbsp;
 <img src="./images/badges/JavaScript.svg">&nbsp;&nbsp;
