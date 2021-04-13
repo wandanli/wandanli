@@ -42,9 +42,10 @@
   👋 <b>window.confirm</b>("Connect with me.")
 </code></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/danica-li-072020/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/futottakuma/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/></a>
-<a href="https://github.com/wandanli" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
+                              <a class="social-link" href="mailto:liwandan@gmail.com" target="blank"><img width="30" height="30" src="./images/gmail.svg"/></a>
+                                <a class="social-link"href="https://www.linkedin.com/in/danica-li-072020/" target="blank"><img width="30" height="30" src="./images/linkedin.svg"/></a>
+                                <a class="social-link"href="https://github.com/wandanli" target="blank"><img width="30" height="30" src="./images/github.svg"/></a>
+                                <a class="social-link"href="https://www.instagram.com/futottakuma/" target="blank"><img width="30" height="30" src="./images/instagram.svg"/></a>
 </p>
 <!-- <a href="https://icons8.com/icon/118553/github">icon by Icons8</a> -->
 
