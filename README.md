@@ -5,11 +5,11 @@
 </code></p>
 
 <p><code>
-🎓 <b>document.write</b>("Then attended university for further education in computing discipline, and accomplished with an overall A grade.")
+🥳 <b>const danica = new WebDeveloper</b>("I continue sharpening my skills in front-end", "Open to Work", "Entry Level")
 </code></p>
 
 <p><code>
-🥳 <b>const danica = new WebDeveloper</b>("I continue sharpening my skills in React.js", "Open to Work", "Entry Level")
+🎓 <b>document.write</b>("Then attended university for further education in computing discipline, and accomplished with an overall A grade.")
 </code></p>
 
 <br>
