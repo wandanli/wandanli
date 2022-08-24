@@ -16,21 +16,21 @@
 <h2 align="center"><img src="./images/hammer.svg"> My Skill Set <img src="./images/tool-box.svg"></h2>
 
 <p align="center">
+<img src="./images/badges/Angular.svg">&nbsp;&nbsp;
+<img src="./images/badges/Typescript.svg">&nbsp;&nbsp;
+<img src="./images/badges/JavaScript.svg">&nbsp;&nbsp;
+<img src="./images/badges/Bootstrap.svg">&nbsp;&nbsp;
+<img src="./images/badges/Sass.svg">&nbsp;&nbsp;
 <img src="./images/badges/Html.svg">&nbsp;&nbsp;
 <img src="./images/badges/Css.svg">&nbsp;&nbsp;
-<img src="./images/badges/Sass.svg">&nbsp;&nbsp;
+<img src="./images/badges/Git.svg">&nbsp;&nbsp;
 <img src="./images/badges/StyledComponents.svg">&nbsp;&nbsp;
-<img src="./images/badges/Bootstrap.svg">&nbsp;&nbsp;
 <img src="./images/badges/Materialize.svg">&nbsp;&nbsp;
-<img src="./images/badges/JavaScript.svg">&nbsp;&nbsp;
 <img src="./images/badges/React.svg">&nbsp;&nbsp;
 <img src="./images/badges/Python.svg">&nbsp;&nbsp;
 <img src="./images/badges/Django.svg">&nbsp;&nbsp;
-<img src="./images/badges/Heroku.svg">&nbsp;&nbsp;
-<img src="./images/badges/Git.svg">&nbsp;&nbsp;
 <img src="./images/badges/Postman.svg">&nbsp;&nbsp;
 <img src="./images/badges/Photoshop.svg">&nbsp;&nbsp;
-<img src="./images/badges/XD.svg">&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Keep Learning More</h2>
