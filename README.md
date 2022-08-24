@@ -43,14 +43,14 @@
   👋 <b>window.confirm</b>("Connect with me.")
 </code></p>
 <p align="center">
-<a class="social-link" href="mailto:liwandan@gmail.com" target="blank"><img width="30" height="30" src="./images/gmail.svg"/></a>&nbsp;&nbsp;
-<a class="social-link"href="https://www.linkedin.com/in/danica-li-072020/" target="blank"><img width="30" height="30" src="./images/linkedin.svg"/></a>&nbsp;&nbsp;
-<a class="social-link"href="https://github.com/wandanli" target="blank"><img width="30" height="30" src="./images/github.svg"/></a>&nbsp;&nbsp;
-<a class="social-link"href="https://www.instagram.com/futottakuma/" target="blank"><img width="30" height="30" src="./images/instagram.svg"/></a>
+<a class="social-link" href="mailto:liwandan@gmail.com" target="_blank"><img width="30" height="30" src="./images/gmail.svg"/></a>&nbsp;&nbsp;
+<a class="social-link"href="https://www.linkedin.com/in/danica-li-072020/" target="_blank"><img width="30" height="30" src="./images/linkedin.svg"/></a>&nbsp;&nbsp;
+<a class="social-link"href="https://github.com/wandanli" target="_blank"><img width="30" height="30" src="./images/github.svg"/></a>&nbsp;&nbsp;
+<a class="social-link"href="https://www.instagram.com/futottakuma/" target="_blank"><img width="30" height="30" src="./images/instagram.svg"/></a>
 </p>
 <!-- <a href="https://icons8.com/icon/118553/github">icon by Icons8</a> -->
 
 <br>
-<p align="center"><a href="https://wandanli.github.io/" target="blank"><img src="./images/wandanli-animated-text.png" width=160px/></a></p>
+<p align="center"><a href="https://wandanli.github.io/" target="_blank"><img src="./images/wandanli-animated-text.png" width=160px/></a></p>
 
 <p align="center"><img src="./images/bg-bottom.svg" width=100%/></p>
